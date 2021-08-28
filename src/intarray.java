@@ -49,5 +49,21 @@ public class intarray {
     public void addElement(int element,int index)
     {
         array[index]=element;
+        sum();
     }
+
+    public int binarySearch(int key)
+    {
+        return Arrays.binarySearch(array,key);
+    }
+
+    public int getLength() {
+        return length;
+    }
+
+    public int getSum() {
+        return sum;
+    }
+
+
 }
