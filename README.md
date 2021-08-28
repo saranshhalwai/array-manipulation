@@ -1,9 +1,9 @@
-#Array-Manipulation
-#####to make working with arrays simpler
+# Array-Manipulation
+##### to make working with arrays simpler
 
 this java file provides various methods to make working with arrays simpler
 
-###Documentation 
+### Documentation 
 |method/constructor| description|
 |------------------|------------|
 |intarray(int length)|make an int array of specified length|
